@@ -26,6 +26,7 @@ num2 = input("Input another number: ")
 noun2 = input("Input another noun: ")
 noun3 = input("Input another noun: ")
 body2 = input("Input another body part: ")
+verb2 = input("Input another verb: ")
 noun4 = input("Input another noun: ")
 adj3 = input("Input another adjective: ")
 silly_wrd = input("Input a silly word: ")
@@ -34,7 +35,7 @@ noun5 = input("Input another noun: ")
 story = tmpl.format(
   num=num, time=time, transport=transport, adj = adj,
   adj2=adj2, noun=noun, color=color, body=body,verb=verb,
-  num2=num2, noun2=noun2, noun3=noun3, body2=body2, noun4=noun4, 
+  num2=num2, noun2=noun2, noun3=noun3, body2=body2, verb2=verb2, noun4=noun4, 
   adj3=adj3, silly_wrd=silly_wrd, noun5=noun5 
   )
 print(story)
