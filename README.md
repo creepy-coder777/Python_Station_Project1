@@ -2,7 +2,6 @@
 
 # Mad Libs Game 
 
-## Overview
 Mad Libs is a fun word game where players fill in blanks with random words to create silly stories.  
 This project is part of **Station Project 1** and demonstrates the use of Python basics such as variables, conditions, loops, arrays, and strings.
 
